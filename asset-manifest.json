@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/coffee/static/css/main.cec8677a.css",
-    "main.js": "/coffee/static/js/main.ceca903a.js",
+    "main.js": "/coffee/static/js/main.cfab7cd7.js",
     "static/media/paper-1074131_1920.png": "/coffee/static/media/paper-1074131_1920.c36b232c472afb775a99.png",
     "static/media/desk-791178_1920.png": "/coffee/static/media/desk-791178_1920.6944f7ca6c6b81697833.png",
     "static/media/coffee-shop-1209863_1920.png": "/coffee/static/media/coffee-shop-1209863_1920.03eecf2fe87c422f854e.png",
@@ -20,10 +20,10 @@
     "static/media/merienda-vietnamese-400-normal.woff2": "/coffee/static/media/merienda-vietnamese-400-normal.912242fabdf65ce4c0b0.woff2",
     "index.html": "/coffee/index.html",
     "main.cec8677a.css.map": "/coffee/static/css/main.cec8677a.css.map",
-    "main.ceca903a.js.map": "/coffee/static/js/main.ceca903a.js.map"
+    "main.cfab7cd7.js.map": "/coffee/static/js/main.cfab7cd7.js.map"
   },
   "entrypoints": [
     "static/css/main.cec8677a.css",
-    "static/js/main.ceca903a.js"
+    "static/js/main.cfab7cd7.js"
   ]
 }
